@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+# OS
+.DS_Store
+Thumbs.db
+# Outputs
+*.json
+*.csv
+pages_raw.jsonl
